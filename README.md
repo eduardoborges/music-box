@@ -28,4 +28,4 @@ This code was heavily inspired by [@JohnPhamous's strava-box](https://github.com
 
 ## 💸 Donations
 
-Feel free to use the GitHub Sponsor button to donate towards my work if you're feeling generous <3
+Feel free to use the GitHub Sponsor button to donate towards my work if you're feeling generous <3.
